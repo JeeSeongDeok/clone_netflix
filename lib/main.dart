@@ -1,8 +1,11 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test_app/screen/home_screen.dart';
 import 'package:flutter_test_app/widget/bottom_bar.dart';
 
-void main() {
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(MyApp());
 }
 // Stateful -> Homepage를 사용하지 않는 방식
