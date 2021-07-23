@@ -1,6 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test_app/screen/home_screen.dart';
+import 'package:flutter_test_app/screen/like_screen.dart';
+import 'package:flutter_test_app/screen/search_screen.dart';
 import 'package:flutter_test_app/widget/bottom_bar.dart';
 
 void main() async{
@@ -34,8 +36,8 @@ class _MyAppState extends State<MyApp>{
               physics: NeverScrollableScrollPhysics(),
               children:<Widget>[
                 HomeScreen(),
-                Container(child: Center(child: Text('search'),),),
-                Container(child: Center(child: Text('save'),),),
+                SearchScreen(),
+                LikeScreen(),
                 Container(child: Center(child: Text('more'),),)
               ],
           ),

@@ -1,16 +1,7 @@
-# flutter_test_app
+# clone_netflix
 
-A new Flutter application.
+자주 사용하는 넷플릭스 어플을 따라 만들어 봤다. 
+이 프로젝트는 Flutter, firebase를 사용했다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 메인 화면
+<img src = "https://user-images.githubusercontent.com/23256819/126529441-a8d48c23-8bd7-4e51-8167-9e3eb983f4bc.PNG">
