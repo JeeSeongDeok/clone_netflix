@@ -26,3 +26,7 @@
 <img src= "https://user-images.githubusercontent.com/23256819/126774064-6878e763-3235-4903-9790-59c67d9145fb.png" width="50%" height="50%">
 <p> 파이어베이스에 저장된 정보 </p>
 <img src = "https://user-images.githubusercontent.com/23256819/126773634-03668196-a841-488e-affc-0dff5d101d49.PNG" >
+
+
+## 강의 주소
+[구름](https://edu.goorm.io/lecture/19172/%EB%AC%B4%EC%9E%91%EC%A0%95-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-firebase-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4ui-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9)
